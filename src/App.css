@@ -1,0 +1,14 @@
+body{
+  background: no-repeat;
+  background: rgb(226,226,209);
+  background: linear-gradient(274deg, rgba(226,226,209,0.938813025210084) 25%, rgba(22,24,17,0.17690826330532217) 36%, rgba(177,163,128,0.022846638655462215) 64%);
+}
+
+::-webkit-scrollbar{
+  width: 5px;
+}
+::-webkit-scrollbar-thumb{
+  background: #FF7F7F;
+  border-radius: 20%;
+}
+
