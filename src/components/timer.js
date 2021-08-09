@@ -8,6 +8,7 @@ function Timer (){
             setTimeout(() => setTime(time + 1), 1000)
         }
     })
+    
     return(
         <div id="timer-container">
             <h2>Time:<span> </span>{time}</h2>
